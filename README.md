@@ -1,3 +1,2 @@
 # WebDev
-Web writing
-edycja tekstu
+Web page example
